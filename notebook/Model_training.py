@@ -6,13 +6,12 @@
 # In[3]:
 
 
-get_ipython().system('pip install feature-engine')
+#get_ipython().system('pip install feature-engine')
 
 
 # In[4]:
 
-
-get_ipython().system('pip install xgboost')
+#get_ipython().system('pip install xgboost')
 
 
 # In[30]:
